@@ -1,10 +1,10 @@
-package com.Bookzy.demo;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BookzyApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
